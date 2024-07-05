@@ -3,12 +3,13 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 All of my projects are available at [nehakaur1.github.io/My-Portfolio/](nehakaur1.github.io/My-Portfolio/)
+- 👨‍💻 Portfolio [nehakaur1.github.io/My-Portfolio/](nehakaur1.github.io/My-Portfolio/)
 
 - 📫 How to reach me **nehakaur816@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/neha kaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha kaur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
