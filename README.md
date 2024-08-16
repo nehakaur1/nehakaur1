@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👨‍💻 Portfolio [nehakaur1.github.io/My-Portfolio/](nehakaur1.github.io/My-Portfolio/)
-
 - 📫 How to reach me **nehakaur816@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
