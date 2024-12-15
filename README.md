@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neha</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **full stack Developement**
 
 - 📫 How to reach me **nehakaur816@gmail.com**
 
