@@ -1,15 +1,15 @@
 <h1 align="left" >Neha Kaur</h1>
 <h2 align="left" >Fullstack Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehakaur1&label=Profile%20views&color=0e75b6&style=flat" alt="nehakaur1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehakaur1" alt="nehakaur1" /></a> </p>
-
 - 🌱 I’m currently learning **fullstack Development**
 
 - 👨‍💻 Portfolio [nehakaur1.github.io/My-Portfolio/](nehakaur1.github.io/My-Portfolio/)
 
 - 📫 How to reach me **nehakaur816@gmail.com**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehakaur1&label=Profile%20views&color=0e75b6&style=flat" alt="nehakaur1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehakaur1" alt="nehakaur1" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
