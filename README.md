@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **fullstack Development**
 
-- 👨‍💻 Portfolio [nehakaur1.github.io/My-Portfolio/]
+- 👨‍💻 Portfolio nehakaur1.github.io/My-Portfolio/
 
 - 📫 How to reach me **nehakaur816@gmail.com**
 
