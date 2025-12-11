@@ -1,7 +1,7 @@
 <h1 align="left" >Neha Kaur</h1>
 <h2 align="left" >Fullstack Developer</h2>
 
-- 🌱 I’m currently learning **fullstack Development**
+- 🌱 I’m a  ** MERN fullstack Developer**
 
 - 👨‍💻 Portfolio: [My Portfolio](https://nehakaur1.github.io/My-Portfolio/)
 
