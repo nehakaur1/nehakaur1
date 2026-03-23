@@ -3,7 +3,7 @@
 
 - 🌱 I’m a MERN fullstack Developer
 
-- 👨‍💻 Portfolio: [My Portfolio](https://nehakaur1.github.io/My-Portfolio/)
+- 👨‍💻 Portfolio:[My Portfolio](https://nehakaur1.github.io/My-Portfolio/)
 
 - 📫 How to reach me **nehakaur816@gmail.com**
 
